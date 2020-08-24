@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![alt text](gonchi-github-readme.png)
 
 Hello, there! I’m Gonzalo, aka Gonchi, a software engineer based in Rochester, NY. I enjoy crafting beautiful high-performing web and mobile apps for fun and for a living. I love to work on projects that solve real- world problems especially related to community building, finance and education.
 
