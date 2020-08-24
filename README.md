@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Gonchi 👋
 
 <!--
 **gonzen2310/gonzen2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hello, there! I’m Gonzalo, aka Gonchi, a software engineer based in Rochester, NY. I enjoy crafting beautiful high-performing web and mobile apps for fun and for a living. I love to work on projects that solve real- world problems especially related to community building, finance and education.
+
+I just graduated from college and I will be joining Yelp as a full- stack software engineer.  Apart from coding, I am interested in UI/UX design, I like to play soccer, play with my dog and I love boba tea.
+
+## Feel free to learn more about me:
+- https://www.iamgonchi.com
+- https://linkedin.com/in/gonzalo-reyes
+- https://medium.com/@gonzaloeladioreyes2310
