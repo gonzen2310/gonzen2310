@@ -21,7 +21,7 @@ Hello, there! I’m Gonzalo, aka Gonchi, a software engineer based in Rochester,
 
 I just graduated from college and I will be joining Yelp as a full- stack software engineer.  Apart from coding, I am interested in UI/UX design, I like to play soccer, play with my dog and I love boba tea.
 
-## Feel free to learn more about me:
-- https://www.iamgonchi.com
-- https://linkedin.com/in/gonzalo-reyes
-- https://medium.com/@gonzaloeladioreyes2310
+## Feel free to check out:
+- Personal Website: https://www.iamgonchi.com
+- Linkedin: https://linkedin.com/in/gonzalo-reyes
+- Medium: https://medium.com/@gonzaloeladioreyes2310
